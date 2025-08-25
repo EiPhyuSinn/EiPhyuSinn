@@ -25,7 +25,7 @@ Currently based in **Yangon, Myanmar**, I'm actively working on projects that pu
 
 
 ### **DevOps & Deployment**
-- Docker, Kubernetes, Git, GitHub Actions, AWS
+- Docker, Git, GitHub Actions, AWS
 
 
 ## 🤝 Let's Collaborate!
